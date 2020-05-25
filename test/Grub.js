@@ -21,5 +21,4 @@ describe('Grub class functionality', function() {
   it('should have an `eat` method', function() {
     expect(grub.eat).to.be.a('function');
   });
-
 });
