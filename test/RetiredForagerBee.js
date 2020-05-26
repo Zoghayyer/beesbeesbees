@@ -49,5 +49,4 @@ describe('RetiredForagerBee class functionality', function() {
     retiredForager.gamble();
     expect(retiredForager.treasureChest).to.have.length(2);
   });
-
 });
