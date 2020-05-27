@@ -46,5 +46,4 @@ describe('ForagerBee class functionality', function() {
     foragerBee.forage('gold');
     expect(foragerBee.treasureChest).to.have.length(3);
   });
-
 });
