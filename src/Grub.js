@@ -3,6 +3,5 @@ var Grub = function() {
   this.color = 'pink';
   this.food = 'jelly';
 };
-Grub.prototype.eat = function() { 
-}
+Grub.prototype.eat = function() {}
 
